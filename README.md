@@ -2,6 +2,8 @@
 
 ![Build and Deploy](https://github.com/Tsuyoshi84/youtube-thumbnail/workflows/Build%20and%20Deploy/badge.svg)
 
+[YouTube Thumbnail Generator](https://tsuyoshi84.github.io/youtube-thumbnail)
+
 ## Get started
 
 Install the dependencies...
