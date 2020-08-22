@@ -17,8 +17,8 @@
 </style>
 
 <section>
-  {#each infos as { name, url, width, height }}
-    <h2>{name} ({width} x {height})</h2>
+  {#each infos as { name, url, width, height, ratio }}
+    <h2>{name} ({width} x {height}, {ratio})</h2>
     <p class="url">{url}</p>
     <ThumbnailImage {name} {url} {width} {height} />
   {/each}
